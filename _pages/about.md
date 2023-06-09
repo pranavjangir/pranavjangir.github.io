@@ -36,8 +36,16 @@ We worked on developing fast and secure privacy preserving algorithms for variou
 
 ### Intern @ Tower Research Capital
 
-Coming soon!
+I interned in the Post Trade Division. Our team's project was to validate financial data based on past transactions.
+
+Brokers provided financial data in pdf format. Extracing information from the pdf files required writing a separate parser for every format that was done by contractors and took about a week.
+
+I built a semi supervised machine learning pipeline that parsed any new pdf file with minimum human supervision. The effective time to parse a file reduced from a week to about a day.
 
 ### Math Undergrad @ IIT Guwahati
 
-Coming soon!
+My course involed more applied math than pure math. My courses included Probability (Basic and Advanced), Real Analysis (Basic and Advanced), Financial Engineering, Stocastic calculus, Combinatorics, Optimization and some other usual CS courses.
+
+I spent most of my undergrad doing the thing I love the most, solving puzzles *(more specifically algorithmic puzzles, but all types of puzzles are welcome)*. I took part in [Topcoder](https://www.topcoder.com/members/tsu), [Codeforces](https://codeforces.com/profile/final_tsu) and [Atcoder](https://atcoder.jp/users/tsu) contests.
+
+I was inspired by the movie The man who knew infinity and in a bout of ~~over~~-confidence decided that I should do my Bachelor's thesis at the interesection of Number Theory and Combinatorics. I finally wrote my thesis on [Partition Functions](https://github.com/pranavjangir/PartitionFunctions/blob/main/bachelor_thesis_presentation_partition_functions.pdf).
