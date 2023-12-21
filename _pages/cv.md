@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<embed src="../files/pranav_resume_may2023_hft.pdf" width="800px" height="2100px" />
+<embed src="../files/Pranav_resume_dec2023.pdf" width="800px" height="2100px" />
 
 <!-- {% include base_path %}
 {% for post in site.pages %}
